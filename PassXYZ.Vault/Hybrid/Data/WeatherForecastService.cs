@@ -1,5 +1,7 @@
 namespace PassXYZ.Vault.Data;
 
+using PassXYZ.Vault.Shared;
+
 public class WeatherForecastService
 {
 	private static readonly string[] Summaries = new[]
